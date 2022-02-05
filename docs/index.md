@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+<img src="../docs/assets/airbnb-logo-2020.svg" width="400">
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 1. Sobre o projeto
+Repositório reservado à disciplina de Requisitos de Software da Universidade de Brasília sobre a requisitos do aplicativo airbnb. Este repositório contém todas as informações do projeto, o seu armazenamento, a apresentação dos artefatos e os processos desenvolvidos durante a disciplina. Podemos citar alguns exemplos como: pré-rastreamento e pós-rastreamento, análise e modelagem, todos eles visando aprimorar os requisitos funcionais e não funcionais do aplicativo escolhido.
+## 2. Sobre o Airbnb
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 3. Equipe
+  
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+| Nome  | GitHub |
+| ------------- | ------------- |
+| João Paulo Coelho | JoãoPauloCoelho  |
+| ingrid da silva carvalho | ingridSCarvalho |
+| Mateus Cunha Maia | mateusmaiamaia  |
+| Matheus Yan Monteiro| matheusyanmonteiro |
+| Rhuan Marques  | RhuanMr  |
