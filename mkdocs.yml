@@ -2,3 +2,34 @@ site_name: airbnb
 
 repo_name: '2021.2-airbnb'
 repo_url: 'https://github.com/Requisitos-de-Software/2021.2-Airbnb'
+
+theme:
+  name: material
+  language: 'pt'
+  logo: 'assets/airbnb-logo-2020.svg'
+  favicon: 'assets/airbnb-logo-2020.svg'
+  palette:
+    scheme: default
+    primary: 'blue grey'
+    accent: 'indigo'
+  font:
+    text: 'Montserrat'
+    code: 'sans-serif'
+  
+
+extra_css:
+  - stylesheets/style.css
+
+
+nav: 
+  - Início: index.md
+  - Planejamento: 
+    - Metodologia: planejamento/metodologia.md
+    - Cronograma: planejamento/cronograma.md
+    - Ferramentas: planejamento/ferramentas.md
+  - Pré-rastreabilidade:
+    - RichPictures: pre_rastreabilidade/rich_pictures.md
+
+
+
+dev_addr: '0.0.0.0:8000'
