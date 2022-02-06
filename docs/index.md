@@ -10,7 +10,7 @@ Repositório reservado à disciplina de Requisitos de Software da Universidade d
 
 
 ## 3. Equipe
-  
+<center>  
 
 | Nome  | GitHub |
 | ------------- | ------------- |
@@ -19,3 +19,5 @@ Repositório reservado à disciplina de Requisitos de Software da Universidade d
 | Mateus Cunha Maia | mateusmaiamaia  |
 | Matheus Yan Monteiro| matheusyanmonteiro |
 | Rhuan Marques  | RhuanMr  |
+
+</center>
