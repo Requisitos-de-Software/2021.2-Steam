@@ -29,6 +29,14 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
   - Pré-rastreabilidade:
     - RichPictures: pre_rastreabilidade/rich_pictures.md
+  - Elicitação:
+    - Personas: elicitacao/personas.md
+    - Técnicas:
+          - Brainstorming: elicitacao/tecnicas/brainstorm.md
+          - Observação: elicitacao/tecnicas/observacao.md
+          - Introspecção: elicitacao/tecnicas/introspeccao.md
+          - Questionário: elicitacao/tecnicas/questionario.md
+    - Resultado: elicitacao/resultado.md
 
 
 
