@@ -26,7 +26,7 @@
 
 <center>
 
-![Mapa de Calor](../assets/heatmap.png)
+![Mapa de Calor](../assets/mapadecalor/heatmap.png)
 
 <figcaption>Imagem 1: Mapa de calor do grupo.</figcaption>
 

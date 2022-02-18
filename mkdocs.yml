@@ -1,13 +1,13 @@
-site_name: airbnb
+site_name: steam
 
-repo_name: '2021.2-airbnb'
-repo_url: 'https://github.com/Requisitos-de-Software/2021.2-Airbnb'
+repo_name: '2021.2-steam'
+repo_url: 'https://github.com/Requisitos-de-Software/2021.2-steam'
 
 theme:
   name: material
   language: 'pt'
-  logo: 'assets/airbnb-logo-2020.svg'
-  favicon: 'assets/airbnb-logo-2020.svg'
+  logo: 'assets/steam-logo.svg'
+  favicon: 'assets/steam-logo.svg'
   palette:
     scheme: default
     primary: 'blue grey'
@@ -29,6 +29,14 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
   - Pré-rastreabilidade:
     - RichPictures: pre_rastreabilidade/rich_pictures.md
+  - Elicitação:
+    - Personas: elicitacao/personas.md
+    - Técnicas:
+          - Brainstorming: elicitacao/tecnicas/brainstorm.md
+          - Observação: elicitacao/tecnicas/observacao.md
+          - Introspecção: elicitacao/tecnicas/introspeccao.md
+          - Questionário: elicitacao/tecnicas/questionario.md
+    - Resultado: elicitacao/resultado.md
   - Apresentações:
     - Apresentação 1: apresentações/apresentação 1.md
 
