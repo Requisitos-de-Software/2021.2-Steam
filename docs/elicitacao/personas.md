@@ -5,7 +5,14 @@
 &emsp;&emsp;Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico. As personas são definidas principalmente por seus objetivos, que são determinados num processo de
 refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário. 
 
-## 2. Histórico de versão
+## 2. Personas
+
+<center>
+![persona](../assets/personas/personaGenerica1.jpeg)
+<figcaption>Imagem 1: Roberto Rispolli Martins</figcaption>
+</center>
+
+## 3. Histórico de versão
 <center>
 
 | Versão | Data       | Descrição                                           | Autor        |

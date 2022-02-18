@@ -13,6 +13,7 @@
 | ![drawing](../assets/ferramentas/whatsapp.svg) | WhatsApp | Utilização de grupo para conumicação entre os integrantes da equipe |
 | ![drawing](../assets/ferramentas/figma.svg) | Figma | Utilizado para elaboração dos Rich Pictures |
 | ![drawing](../assets/ferramentas/canvas.svg) | Canva | Elaboração das apresentações |
+| ![drawing](../assets/ferramentas/miro.svg) | Miro | Brainstorm |
 
 
 ## 2. Histórico de versão

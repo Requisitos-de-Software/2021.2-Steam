@@ -1,15 +1,16 @@
 <center>
 
-![logo](./assets/airbnb-logo-2020.svg)
+![logo](./assets/steam-logo.svg)
 
 </center>
 
 ## 1. Sobre o projeto
-&emsp;&emsp;Repositório reservado à disciplina de Requisitos de Software da Universidade de Brasília sobre a requisitos do aplicativo airbnb. Este repositório contém todas as informações do projeto, o seu armazenamento, a apresentação dos artefatos e os processos desenvolvidos durante a disciplina. Podemos citar alguns exemplos como: pré-rastreamento e pós-rastreamento, análise e modelagem, todos eles visando aprimorar os requisitos funcionais e não funcionais do aplicativo escolhido.
-## 2. Sobre o Airbnb
-&emsp;&emsp;O Airbnb é um mercado online que conecta pessoas que desejam alugar suas casas com pessoas que procuram acomodações em locais específicos.
 
-&emsp;&emsp;A empresa percorreu um longo caminho desde 2007, quando seus cofundadores tiveram a ideia de convidar hóspedes pagantes a dormir em um colchão de ar em sua sala de estar. De acordo com os dados mais recentes do Airbnb, ele tem mais de 5,6 milhões de anúncios, cobrindo mais de 100.000 cidades e vilas e mais de 220 países em todo o mundo.
+&emsp;&emsp;Repositório reservado à disciplina de Requisitos de Software da Universidade de Brasília sobre a requisitos do aplicativo airbnb. Este repositório contém todas as informações do projeto, o seu armazenamento, a apresentação dos artefatos e os processos desenvolvidos durante a disciplina. Podemos citar alguns exemplos como: pré-rastreamento e pós-rastreamento, análise e modelagem, todos eles visando aprimorar os requisitos funcionais e não funcionais do aplicativo escolhido.
+
+## 2. Sobre o Steam
+
+&emsp;&emsp;Steam é um software de gestão de direitos digitais criado pela Valve Corporation ou Valve L.L.C., de plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos, e preços acessíveis aos usuários. Atualmente o Steam conta com aproximadamente 65 milhões de usuários ativos, e tem médias de acesso diário de 8,5 milhões de contas ao mesmo tempo.
 
 ## 3. Equipe
 <center>  
