@@ -38,5 +38,6 @@
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 06/02/2022 | Criação da introdução | Matheus Monteiro |
+| 0.2    | 06/02/2022 | Adição do mapa de calor | Mateus Maia |
 
 </center>
