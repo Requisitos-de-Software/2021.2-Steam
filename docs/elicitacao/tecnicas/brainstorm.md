@@ -22,49 +22,28 @@ Como resultado da discussão e das ideias dos participantes, os seguintes requis
 | Número | Requisitos Funcionais                                         |
 | :------: | :--------------------------------------------------: |
 | 1    | O usuário deve poder realizar login na conta  |
-| 2    | O usuário deve poder visualizar seus amigos |
-| 3    | O usuário deve poder abrir uma conversa com um amigo |
-| 4    | O Usuário deve poder visualizar as postagens dos seus amigos |
-| 5    | O Usuario deve poder Visualizar e alterar seu perfil |
+| 2    | O usuário deve poder realizar logout na conta |
+| 3    | O usuário deve poder editar perfil |
+| 4    | O Usuário deve poder ficar offline |
+| 5    | O Usuario deve poder visualizar itens do inventário |
 | 6    | O Usuario deve poder adicionar um novo amigo         |
-| 7    | O Usuario deve poder aceitar pedidos de amizade      |
-| 8    | O Usuario deve poder bloquear outros usuários        |
-| 9    | O Usuario deve poder vê suas partidas recentes       |
-| 10   | O usuario deve poder remover um amigo                |
-| 11   | O usuario deve poder promover amigo a moderador de transmissão |
-| 12   | O usuario deve poder fazer parte de grupos     |
-| 13   | O usuario deve poder sair dos grupos    |
-| 14   | O usuário deve poder listar suas capturas de telas em jogos |
-| 15   | O Usuário deve poder vê suas insígnias |
-| 16   | O Usuario deve poder listar itens do inventario |
-| 17   | O usuário deve poder propor trocar de intens entre inventarios |
-| 18   | O usuário deve poder vê o mercado da comunidade |
-| 19   | o usuario deve poder ter acesso a pagina inicial da comunidade |
-| 20   | O usuaário deve poder vê as discursões da comunidade |
-| 21   | O usuario deve poder acompanhar as transmissões |
-| 22   | O usuario deve poder ter acesso sua biblioteca | 
-| 23   | O Usuario deve poder ter acesso a suporte de jogos, softwares, etc |
-| 24   | O Usuario deve poder ter acesso a suporte a compras |
-| 25   | O Usuario deve poder ter acesso a suporte a problemas específicos no steamOS|
-| 26   | O usuario deve poder ter acesso a suporte a conta |
-| 27   | O Usuario deve poder ter acesso a suporte a trocas, presentes, mercado da comunidade e pontos steam |
-| 28   | O Usuario deve poder ter acesso a suporte ao cliente steam | 
-| 29   | O Usuario deve poder ter acesso a suporte a comunidade steam |
-| 30   | O Usuario deve poder ter acesso a suporte ao hardware steam |
-| 31   | O usuario deve poder ter acesso aos historicos de chamados no suporte steam |
-| 32   | O Usuario deve poder ficar offline |
-| 33   | O Usuario deve poder finalizar sessão |
-| 34   | O Usuario deve poder aprovar anuncios do mercado |
-| 35   | O usuario deve poder visualizar token de acesso ao aplicativo desktop |
-| 36   | O usuario deve poder visualizar o catalogo da loja |
-| 37   | O usuario deve poder escolher produtos do catalogo |
-| 38   | O usuario deve poder ter acesso ao carrinho de compras |
-| 39   | O usuario deve poder ter acesso a busca de produtos do carrinho |
-| 40   | O Usuario deve poder ter acesso a lista de desejos de produtos do catalogo |
-| 41   | O usuario deve poder ter acesso a noticias da steam |
-| 42   | O usuario deve poder ter acesso aos detalhes da conta |
-| 43   | O usuario deve poder avaliar produto do catalogo |
-| 44   | O usuario deve poder escrever uma resenha sobre produto do catalogo | 
+| 7    | O Usuario deve poder visualizar o perfil de amigos      |
+| 8    | O Usuario deve poder eviar mensagem para amigos       |
+| 9    | O Usuario deve poder visualizar postagem de amigos       |
+| 10   | O usuario deve poder visualizar partida                |
+| 11   | O usuario deve poder trocar itens do inventário |
+| 12   | O usuario deve poder bloquear usuários     |
+| 13   | O usuario deve poder interagir com a comunidade através de fórum    |
+| 14   | O usuário deve poder navegar no mercado da comunidade |
+| 15   | O Usuário deve poder adicionar jogos na lista de desejo |
+| 16   | O Usuario deve poder remover jogos na lista de desejo |
+| 17   | O usuário deve poder cadastrar cartão de crédito |
+| 18   | O usuário deve poder efetuar pagamento |
+| 19   | o usuário deve poder ter acesso ao suporte de compras |
+| 20   | O usuário deve poder avaliar um jogo |
+| 21   | O usuario deve poder ter acesso a sua biblioteca de jogos |
+
+ 
 
 <figcaption>Tabela 1: Requisitos funcionais.</figcaption>
 
