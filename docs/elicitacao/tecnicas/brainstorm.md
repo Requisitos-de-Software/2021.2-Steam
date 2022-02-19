@@ -67,3 +67,8 @@
 
 </center>
 
+## x. Histórico de versão
+
+| Versão | Data       | Descrição                                           | Autor        |
+| ------ | ---------- | --------------------------------------------------- | ------------ |
+| 0.1    | 19/02/2022 | Criação da documentação dos requisitos              | Matheus Monteiro |
