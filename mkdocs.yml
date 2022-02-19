@@ -36,6 +36,8 @@ nav:
           - Observação: elicitacao/tecnicas/observacao.md
           - Introspecção: elicitacao/tecnicas/introspeccao.md
           - Questionário: elicitacao/tecnicas/questionario.md
+    - Priorização:
+          - MoSCoW: elicitacao/priorizacao/MoSCoW.md
     - Resultado: elicitacao/resultado.md
   - Apresentações:
     - Apresentação 1: apresentações/apresentação 1.md
