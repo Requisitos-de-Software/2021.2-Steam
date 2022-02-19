@@ -9,16 +9,21 @@ O Rich Picture é uma ferramenta efetiva com uma linguagem acessível, em que, s
 
 ![Rich Picture](../assets/rich-pictures/RichPictureV1.jpg)
 
+<figcaption>Imagem 1: Rich Picture versão 1.</figcaption>
+
 ### 2.2 Versão 1.0
 Considerando as considerações feitas pela monitora, o time descidiu realizar algumas alterações para atender melhor o que foi solicitado na disciplina.
 
 ![Rich Picture](../assets/rich-pictures/RichPictureV2.jpeg)
 
+<figcaption>Imagem 2: Rich Picture versão 2.</figcaption>
 
 ### 2.2.1 Legenda
 Para um melhor entendimento do Rich Picture, foi utilizada uma legenda, própria do projeto, como podemos ver na imagem abaixo.
 
 ![Rich Picture](../assets/rich-pictures/LegendaRichPicture.jpg)
+
+<figcaption>Imagem 3: Legenda do Rich Picture versão 2.</figcaption>
 
 ## 3. Histórico de versão
 <center>
