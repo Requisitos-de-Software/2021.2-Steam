@@ -14,13 +14,14 @@
 - Matheus Yan Monteiro
 
 ## 4. Resultados
-&emsp;&emsp;Como resultado dessa técnica, foram levantados x requistos que ainda não haviam sido levantados pelas outras técnicas. Estes estão listados a seguir:
+&emsp;&emsp;Como resultado dessa técnica, foram levantados 4 requistos que ainda não haviam sido levantados pelas outras técnicas. Estes estão listados a seguir:
 
 | Número | Requisitos                                       |
 | :------: | :--------------------------------------------------: |
 | 1        | O sistema deverá permitir que o usuario desmonte intes do usuario em troca de gemas |
 | 2        | O usuario deve poder fabricar intens especificos com as gemas |
 | 3        | O usuario só pode criar intens de produtos já comprados no catalogo da steam |
+| 4        | O usuario pode trocar intens criados com outros usuarios |
 
 <figcaption>Tabela 1: Requisitos levantados pela técnida de introspecção.</figcaption>
 
