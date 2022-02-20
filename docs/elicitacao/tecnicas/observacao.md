@@ -21,7 +21,7 @@
 | Número | Requisitos                                       |
 | :------: | :--------------------------------------------------: |
 | 1      | O usuario deve poder visualizar comentarios em treads criadas na comunidade |
-| 2      | O usuario deve poder vê intens novos adiquiridos no inventario |
+| 2      | O usuario deve poder vê itens novos adiquiridos no inventario |
 | 3      | O usuario deve poder vê a lista de presentes enviados pelos amigos |
 | 4      | O usuario deve poder vê as recomendações no perfil do jogo  |
 | 5      | O usuario deve poder reagir com figurinhas diferentes as postagens do perfil do jogo |
