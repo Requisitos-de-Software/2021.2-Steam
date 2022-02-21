@@ -73,6 +73,6 @@ refinamentos sucessivos durante a investigação inicial do domínio de atividad
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 0.1    | 17/02/2022 | Criação da introdução | Matheus Monteiro |
-| 0.2    | 20/02/2022 | Adicionando personas | Matheus Monteiro |
+| 0.2    | 20/02/2022 | Adicionando personas | Matheus Monteiro, Ingrid Carvalho |
 
 </center>
