@@ -20,7 +20,7 @@ Com a divulgação da equipe, nos grupos e redes sociais, conseguimos atingir um
 ### Questão 1
 
 <center>
-![questionario](../assets/questionario/pergunta1.png)
+![questionario](../../assets/questionario/pergunta1.png)
 <figcaption>Imagem 1: Questão 1 do questionário</figcaption>
 </center>
 
@@ -29,7 +29,7 @@ Primeiramente o grupo procurou conhecer o público filtrando as pessoas que nunc
 ### Questão 2
 
 <center>
-![questionario](../assets/questionario/pergunta2.png)
+![questionario](../../assets/questionario/pergunta2.png)
 <figcaption>Imagem 2: Questão 2 do questionário</figcaption>
 </center>
 
@@ -38,7 +38,7 @@ Um passo importante a ser considerado, é a de saber a faixa etária dos usuári
 ### Questão 3
 
 <center>
-![questionario](../assets/questionario/pergunta3.png)
+![questionario](../../assets/questionario/pergunta3.png)
 <figcaption>Imagem 3: Questão 3 do questionário</figcaption>
 </center>
 
@@ -47,7 +47,7 @@ A motivação dessa pergunta era pra saber quais os principais requisitos que fi
 ### Questão 4
 
 <center>
-![questionario](../assets/questionario/pergunta4.png)
+![questionario](../../assets/questionario/pergunta4.png)
 <figcaption>Imagem 4: Questão 4 do questionário</figcaption>
 </center>
 
@@ -56,7 +56,7 @@ Com essa pergunta, o item pode ser modelado para melhor se adequar ao formato de
 ### Questão 5
 
 <center>
-![questionario](../assets/questionario/pergunta5.png)
+![questionario](../../assets/questionario/pergunta5.png)
 <figcaption>Imagem 5: Questão 5 do questionário</figcaption>
 </center>
 
@@ -65,7 +65,7 @@ Para dar uma base para a equipe sobre a opinão dos usuários sobre a steam mobi
 ### Questão 6
 
 <center>
-![questionario](../assets/questionario/pergunta6.png)
+![questionario](../../assets/questionario/pergunta6.png)
 <figcaption>Imagem 6: Questão 6 do questionário</figcaption>
 </center>
 
@@ -74,7 +74,7 @@ Com o intuido semelhante da questão 2, essa questão foi criada para saber quai
 ### Questão 7
 
 <center>
-![questionario](../assets/questionario/pergunta7.png)
+![questionario](../../assets/questionario/pergunta7.png)
 <figcaption>Imagem 7: Questão 7 do questionário</figcaption>
 </center>
 
@@ -83,7 +83,7 @@ Essa pergunta foi sobre o pretexto de saber se as exigências dos usuários est�
 ### Questão 8
 
 <center>
-![questionario](../assets/questionario/pergunta8.png)
+![questionario](../../assets/questionario/pergunta8.png)
 <figcaption>Imagem 8: Questão 8 do questionário</figcaption>
 </center>
 
@@ -91,7 +91,7 @@ Esse questão nos mostra como é a experiência dos usuários desse aplicativo, 
 ### Questão 9
 
 <center>
-![questionario](../assets/questionario/pergunta9.png)
+![questionario](../../assets/questionario/pergunta9.png)
 <figcaption>Imagem 9: Questão 9 do questionário</figcaption>
 </center>
 
@@ -100,7 +100,7 @@ Com essa questão, nos foi mostrado quais requisitos que não existem no aplicat
 ### Questão 10
 
 <center>
-![questionario](../assets/questionario/pergunta10.png)
+![questionario](../../assets/questionario/pergunta10.png)
 <figcaption>Imagem 10: Questão 10 do questionário</figcaption>
 </center>
 
