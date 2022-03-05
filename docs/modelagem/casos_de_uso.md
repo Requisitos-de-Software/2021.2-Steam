@@ -10,54 +10,57 @@
 ## 3. Diagramas
 
 ## 3.1 Fluxo de login
-![drawing](../assets/modelagem/diagrama_login.jpeg) 
-| UC1                   | Informações |
-| :-----                | :---------- |
-| Descrição             |  O usuário deve ser capaz de realizar login           |
-| Pré condições         | Ter uma conta            |
-| Ator                  |    usuário         |
-| Ação                  |    O usuário acessa sua conta ultilizando login e senha         |
-| Fluxo principal       |     <li> O usuário acessa o aplicativo </li>  <li> O usuário insere seu login e senha  <li> O usuário acessa sua conta </li>        |
-| Pós condições         |   O usuário poderá aproveitar as funções da aplicação         |
-|                       |             |
+![diagrama1](../assets/modelagem/diagrama_login.jpeg) 
+
+| UC1                   | Informações                                                                                    |
+|-----------------------|------------------------------------------------------------------------------------------------|
+| Descrição             | O usuário deve ser capaz de realizar login                                                     |
+| Pré condições         | Ter uma conta                                                                                  |
+| Ator                  | Usuário                                                                                        |
+| Ação                  | O usuário acessa sua conta ultilizando login e senha                                           |
+| Fluxo principal       | O usuário acessa o aplicativo.  O usuário insere seu login e senha.   O usuário acessa sua conta |
+| Pós condições         | O usuário poderá aproveitar as funções da aplicação                                            |
+
 ## 3.2 Fluxo de Interação
-![drawing](../assets/modelagem/diagrama_interação.jpeg) 
-| UC2                   | Informações |
-| :-----                | :---------- |
-| Descrição             |  O usuário deve ser capaz de interagir com outros usuários           |
-| Pré condições         |   Ter amigos em sua conta          |
-| Ator                  |    Usuário         |
-| Ação                  |    O usuário envia mensagens à um amigo        |
-| Fluxo principal       |     <li> O usuário acessa o aplicativo </li>  <li> O usuário pesquisa um amigo  <li> O usuário envia a mensagem desejada </li>        |
-| Pós condições         |   O usuário poderá conversar com amigos           |
-|                       |             |
+![diagrama2](../assets/modelagem/diagrama_interacao.jpeg) 
+
+| UC2                   | Informações                                                                                     |
+|-----------------------|-------------------------------------------------------------------------------------------------|
+| Descrição             |  O usuário deve ser capaz de interagir com outros usuários           |                          
+| Pré condições         |  Ter amigos em sua conta          |
+| Ator                  |  Usuário         |
+| Ação                  |  O usuário envia mensagens à um amigo        |
+| Fluxo principal       |  O usuário acessa o aplicativo.  O usuário pesquisa um amigo.   O usuário envia a mensagem desejada         |
+| Pós condições         |  O usuário poderá conversar com amigos           |
+
 ## 3.3 Fluxo de configurações
-![drawing](../assets/modelagem/diagrama_configurações.jpeg) 
-| UC3                   | Informações |
-| :-----                | :---------- |
+![diagrama3](../assets/modelagem/diagrama_configuracoes.jpeg) 
+
+| UC3                   | Informações                                                 |
+|-----------------------|-------------------------------------------------------------|
 | Descrição             |  O usuário deve ser capaz de fazer alterações em seus dados |
-| Pré condições         |   Ter uma conta         |
-| Ator                  |    Usuário         |
-| Ação                  |    O usuário altera dados cadastrados em seu perfil       |
-| Fluxo principal       |     <li> O usuário acessa seu perfil na aplicação </li>  <li> O usuário altera os dados  <li> O usuário salva as alterações </li>        |
-| Pós condições         |   O usuário poderá ter seus dados atualizados           |
-|                       |             |
+| Pré condições         |  Ter uma conta                                             |
+| Ator                  |  Usuário         |
+| Ação                  |  O usuário altera dados cadastrados em seu perfil       |
+| Fluxo principal       |  O usuário acessa seu perfil na aplicação.    O usuário altera os dados.   O usuário salva as alterações         |
+| Pós condições         |  O usuário poderá ter seus dados atualizados           |
+
 ## 3.4 Fluxo de suporte
-![drawing](../assets/modelagem/diagrama_suporte.jpeg) 
+![diagrama4](../assets/modelagem/diagrama_suporte.jpeg) 
+
 | UC4                   | Informações |
-| :-----                | :---------- |
+|-----------------------|-------------------------------------------------------------|
 | Descrição             |  O usuário deve ser capaz de abrir um chamado de suporte          |
-| Pré condições         |   Ter tido problemas em sua conta         |
-| Ator                  |    Usuário         |
-| Ação                  |    O usuário abre um chamado ao suporte       |
-| Fluxo principal       |     <li> O usuário acessa o aplicativo </li>  <li> O usuário acessa a área de suporte  <li> O usuário descreve o problema </li>  <li> O usuário acessa a área de suporte  <li> O usuário envia o chamado </li>      |
-| Pós condições         |   O usuário poderá solucionar o problema           |
-|                       |             |
+| Pré condições         |  Ter tido problemas em sua conta         |
+| Ator                  |  Usuário         |
+| Ação                  |  O usuário abre um chamado ao suporte       |
+| Fluxo principal       |  O usuário acessa o aplicativo.    O usuário acessa a área de suporte.   O usuário descreve o problema.    O usuário acessa a área de suporte   O usuário envia o chamado       |
+| Pós condições         |  O usuário poderá solucionar o problema           |
 
 ## 4. Bibliografia
 
-<li>SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13</li>
-<li>Lucidchart Português, Tutorial de Caso de Uso UML, YouTube, 25 abril 2019, Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA</li>
+SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13
+Lucidchart Português, Tutorial de Caso de Uso UML, YouTube, 25 abril 2019, Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA
 
 ## 5. Histórico de versão
 
