@@ -1,16 +1,16 @@
 # Especificação Suplementar
 
 ## 1. Introdução
-&emsp;&emsp;Especificação Suplementar é um documento em linguagem natural, no qual são descritos requisitos não funcionais. As Especificações Suplementares são um importante complemento para o Modelo de Caso de Uso, porque, juntas, capturam todos os requisitos de software (funcionais e não funcionais) que precisam ser descritos para servir como uma Especificação de Requisitos de Software completa.
+&emsp;&emsp;Especificações suplementares são documentos em linguagem natural que descrevem requisitos não funcionais. Uma especificação complementar é um proxy complementar que combina requisitos de sistema que não são capturados imediatamente no caso de uso do modelo de caso de uso. 
 
-&emsp;&emsp;A Especificação Suplementar captura os requisitos do sistema que não são prontamente capturados nos casos de uso do modelo de caso de uso. Entre os requisitos estão incluídos:
+&emsp;&emsp;A especificação suplementar captura os requisitos do sistema que não são facilmente capturados nos casos de uso do modelo de caso de uso. Esses incluem:
 
 - Requisitos legais e de regulamentação e padrões de aplicativo;
 - Atributos de qualidade do sistema a ser criado, incluindo requisitos de  usabilidade, confiabilidade, desempenho e suportabilidade;
 - Outros requisitos, como aqueles para os sistemas e ambientes operacionais, compatibilidade com outro software e restrições de design.
 
 ## 2. Metodologia
-&emsp;&emsp;Para a categorização dos requisitos não funcionais neste projeto, foi utilizado o modelo FURPS+. Utilizando o acrônimo FURPS para descrever as principais categorias de requisitos com subcategorias, conforme mostrado a seguir:
+&emsp;&emsp;Para a classificação dos requisitos não funcionais neste projeto, foi utilizado o modelo FURPS+. A sigla FURPS é usada para descrever as principais categorias e subcategorias de requisitos, conforme mostrado no diagrama a seguir:
 
 ### 2.1 F - Funcionality (Funcionalidade)
 
