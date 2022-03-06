@@ -77,3 +77,37 @@
         - Restrições de formatos, tempos ou outros fatores utilizados por tal interação 
 - Requisitos físicos
     - Esse tipo de requisito pode ser utilizado para representar requisitos de hardware, como as configurações físicas de rede obrigatórias.
+
+## 3. Resultado
+&emsp;&emsp;Como resultado da categarização dos requisitos não funcionais levantados na etapa de elicitação de requisitos:
+
+<center>
+
+| Sigla | Categoria | Requisitos                                      |
+|:------: | :------: | :--------------------------------------------------: |
+| F | Funcionalidade   | RNF1, RNF2 |
+| U | Usabilidade | RNF4 |
+| R | Confiabilidade | RF3 |
+| P | Performance | - |
+| S | Suportabilidade | RF5 |
+| + | Outros | - |
+
+<figcaption>Tabela 1: Categorização dos requisitos não funcionais pelo modelo FURPS+</figcaption>
+
+</center>
+
+<br>
+
+## 4. Gráfico da categorização dos requisitos não funcionais pelo modelo FURPS+
+<center>
+
+![grafico](../assets/especificao-suplementar/grafico.png)
+<figcaption>Gráfico 1: Categorização dos requisitos não funcionais pelo modelo FURPS+</figcaption>
+
+</center>
+
+## 5. Histórico de versão
+
+| Versão | Data       | Descrição                      | Autor        |
+| ------ | ---------- | ------------------------------ | ------------ |
+|  0.1   | 06/03/2022 | Criação do documento           | Matheus Monteiro |
