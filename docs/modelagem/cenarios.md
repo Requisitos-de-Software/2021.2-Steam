@@ -6,7 +6,9 @@
 
 ## 2. Cenários
 
-### C01: Dinâmica da Steam App
+### 2.1 Dinâmica da Steam App
+
+<center>
 
 |Cenário 001||
 |:----:|:----------|
@@ -17,12 +19,13 @@
 |<b>Exceção</b>| 1. Smartphone para de funcionar</br>2. Sem acesso à internet |
 |<b>Episódios</b>| 1. Usuário abre o aplicativo</br> 2. O usuário entra com sua conta Steam</br> 3. O usuário utiliza o App |
 
-<center>
 <h6>Tabela 1: Descrição das características do Cenário 01</h6>
 <h6>Fonte: Autores</h6>
-<center>
+</center>
 
-### C02: Conversar via chat com outro usuário
+### 2.2 Conversar via chat com outro usuário
+
+<center>
 
 |Cenário 002||
 |:----:|:----------|
@@ -33,12 +36,13 @@
 |<b>Exceção</b>| 1. Smartphone para de funcionar</br>2. Sem acesso à internet |
 |<b>Episódios</b>| 1. Usuário abre o aplicativo</br> 2. O usuário entra com sua conta Steam</br> 3. O usuário utiliza o chat |
 
-<center>
 <h6>Tabela 2: Descrição das características do Cenário 02</h6>
 <h6>Fonte: Autores</h6>
-<center>
+</center>
 
-### C03: Visualizar sua biblioteca de jogos na Steam
+### 2.3 Visualizar sua biblioteca de jogos na Steam
+
+<center>
 
 |Cenário 003||
 |:----:|:----------|
@@ -49,12 +53,13 @@
 |<b>Exceção</b>| 1. Smartphone para de funcionar</br>2. Sem acesso à internet |
 |<b>Episódios</b>| 1. Usuário abre o aplicativo</br> 2. O usuário entra com sua conta Steam</br> 3. O usuário aperta no menu hamburguer </br> 4. O usuário seleciona a opção Biblioteca </br> 5. O usuário visualiza os jogos que possui em sua Biblioteca Steam |
 
-<center>
 <h6>Tabela 3: Descrição das características do Cenário 03</h6>
 <h6>Fonte: Autores</h6>
-<center>
+</center>
 
-### C04: Comprar jogos onlines via Steam app
+### 2.4 Comprar jogos onlines via Steam app
+
+<center>
 
 |Cenário 004||
 |:----:|:----------|
@@ -65,12 +70,13 @@
 |<b>Exceção</b>| 1. Smartphone para de funcionar</br>2. Sem acesso à internet </br>3. Pagamento recusado |
 |<b>Episódios</b>| 1. Usuário abre o aplicativo</br> 2. O usuário entra com sua conta Steam</br> 3. O usuário aperta no menu hamburguer </br> 4. O usuário seleciona a opção Loja </br> 5. Seleciona a opção Catálago </br> 6. Seleciona o jogo que deseja comprar </br> 7. Aperta para adicionar ao carrinho </br> 8. Acessa o Carrinho </br> 9. Aperta para finalizar compra </br> 10. É redirecionado para a página de pagamentos </br> 11. Efetua o pagamento |
 
-<center>
 <h6>Tabela 4: Descrição das características do Cenário 04</h6>
 <h6>Fonte: Autores</h6>
-<center>
+</center>
 
-### C05: Visualizar Informações do perfil
+### 2.5 Visualizar Informações do perfil
+
+<center>
 
 |Cenário 005||
 |:----:|:----------|
@@ -81,12 +87,13 @@
 |<b>Exceção</b>| 1. Smartphone para de funcionar</br>2. Sem acesso à internet </br>3. Pagamento recusado |
 |<b>Episódios</b>| 1. Usuário abre o aplicativo</br> 2. O usuário entra com sua conta Steam</br> 3. O usuário aperta no menu hamburguer </br> 4. O usário entra no no card com seu nickname e foto de perfil </br> 5. O usuário visualiza suas informações de perfil |
 
-<center>
 <h6>Tabela 5: Descrição das características do Cenário 05</h6>
 <h6>Fonte: Autores</h6>
-<center>
+</center>
 
-### C06: Editar Informações do perfil
+### 2.6 Editar Informações do perfil
+
+<center>
 
 |Cenário 006||
 |:----:|:----------|
@@ -97,12 +104,13 @@
 |<b>Exceção</b>| 1. Smartphone para de funcionar</br>2. Sem acesso à internet </br>3. Pagamento recusado |
 |<b>Episódios</b>| 1. Usuário abre o aplicativo</br> 2. O usuário entra com sua conta Steam</br> 3. O usuário aperta no menu hamburguer </br> 4. O usário entra no no card com seu nickname e foto de perfil </br> 5. O usuário seleciona a opção de Editar perfil </br> 6. O usuário altera as informações que deseja editar  |
 
-<center>
 <h6>Tabela 6: Descrição das características do Cenário 06</h6>
 <h6>Fonte: Autores</h6>
-<center>
+</center>
 
-### C07: Visualizar a atividade de outros usuários
+### 2.7 Visualizar a atividade de outros usuários
+
+<center>
 
 |Cenário 007||
 |:----:|:----------|
@@ -113,10 +121,9 @@
 |<b>Exceção</b>| 1. Smartphone para de funcionar</br>2. Sem acesso à internet </br>3. Pagamento recusado |
 |<b>Episódios</b>| 1. Usuário abre o aplicativo</br> 2. O usuário entra com sua conta Steam</br> 3. O usuário aperta no menu hamburguer </br> 4. Seleciona a opção "Você e amigos" 5. Seleciona Atividade 6. Visualiza as atividades recentes de outros usuários  |
 
-<center>
 <h6>Tabela 7: Descrição das características do Cenário 07</h6>
 <h6>Fonte: Autores</h6>
-<center>
+</center>
 
 ## 3. Histórico de versão
 <center>
