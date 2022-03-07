@@ -40,8 +40,11 @@ nav:
           - MoSCoW: elicitacao/priorizacao/MoSCoW.md
     - Resultado: elicitacao/resultado.md
   - Modelagem:
-    - Casos de uso: modelagem/casos_de_uso.md
+    - Especificação Suplementar: modelagem/especificacao_suplementar.md
     - Cenários: modelagem/cenarios.md
-    
+    - Casos de uso: modelagem/casos_de_uso.md
+  - Apresentações:
+      - Apresentação 1: apresentacoes/apresentacao1.md
+      - Apresentação 2: apresentacoes/apresentacao2.md
 
 dev_addr: '0.0.0.0:8000'
