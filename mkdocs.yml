@@ -39,12 +39,12 @@ nav:
     - Priorização:
           - MoSCoW: elicitacao/priorizacao/MoSCoW.md
     - Resultado: elicitacao/resultado.md
-  - Apresentações:
-    - Apresentação 1: apresentações/apresentação 1.md
-    - Apresentação 2: apresentações/apresentação 2.md
   - Modelagem:
     - Casos de uso: modelagem/casos_de_uso.md
     - Cenários: modelagem/cenarios.md
+  - Apresentações:
+    - Apresentação 1: apresentações/apresentação 1.md
+    - Apresentação 2: apresentações/apresentação 2.md
 
 
 
