@@ -41,12 +41,7 @@ nav:
     - Resultado: elicitacao/resultado.md
   - Modelagem:
     - Casos de uso: modelagem/casos_de_uso.md
-    - Especificação Suplementar: modelagem/especificacao_suplementar.md
-  - Apresentações:
-    - Apresentação 1: apresentações/apresentação 1.md
-    - Apresentação 2: apresentações/apresentação 2.md
-  
-
-
+    - Cenários: modelagem/cenarios.md
+    
 
 dev_addr: '0.0.0.0:8000'
