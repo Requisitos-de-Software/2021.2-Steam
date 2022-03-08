@@ -162,3 +162,11 @@ Eu, como usuário, gostaria de trocar itens criados com outros usuarios para pod
 
 **Critérios de aceitação**
 *
+
+## Histórico de versão
+
+| Versão | Data       | Descrição                        | Autor        |
+| ------ | ---------- | -------------------------------- | ------------ |
+| 0.1    | 8/03/2022 | Criação do documento de épicos | Mateus Maia |
+| 0.2    | 8/03/2022 | Adição do histórico de versão | Mateus Maia |
+

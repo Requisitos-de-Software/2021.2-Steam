@@ -61,3 +61,10 @@ Eu, como usuário, gostaria de listar itens do inventário para poder ver os ite
 **Critérios de aceitação**
 
 * Deve mostrar todos os itens do inventário da conta.
+
+## Histórico de versão
+
+| Versão | Data       | Descrição                        | Autor        |
+| ------ | ---------- | -------------------------------- | ------------ |
+| 0.1    | 8/03/2022 | Criação do documento de épicos | Mateus Maia |
+| 0.2    | 8/03/2022 | Adição do histórico de versão | Mateus Maia |
