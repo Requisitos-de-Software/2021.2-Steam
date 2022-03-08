@@ -11,6 +11,7 @@
 
 ## 3.1 Fluxo de login
 ![diagrama1](../assets/modelagem/diagrama_login.jpeg) 
+<figcaption>Imagem 1: diagrama de login</figcaption>
 
 | UC1                   | Informações                                                                                    |
 |-----------------------|------------------------------------------------------------------------------------------------|
@@ -21,8 +22,11 @@
 | Fluxo principal       | O usuário acessa o aplicativo.  O usuário insere seu login e senha.   O usuário acessa sua conta |
 | Pós condições         | O usuário poderá aproveitar as funções da aplicação                                            |
 
+<figcaption>Tabela 1: especificação do caso de uso de login.</figcaption>
+
 ## 3.2 Fluxo de Interação
 ![diagrama2](../assets/modelagem/diagrama_interacao.jpeg) 
+<figcaption>Imagem 2: diagrama de interação</figcaption>
 
 | UC2                   | Informações                                                                                     |
 |-----------------------|-------------------------------------------------------------------------------------------------|
@@ -33,8 +37,11 @@
 | Fluxo principal       |  O usuário acessa o aplicativo.  O usuário pesquisa um amigo.   O usuário envia a mensagem desejada         |
 | Pós condições         |  O usuário poderá conversar com amigos           |
 
+<figcaption>Tabela 2: especificação do caso de uso de interção.</figcaption>
+
 ## 3.3 Fluxo de configurações
-![diagrama3](../assets/modelagem/diagrama_configuracoes.jpeg) 
+![diagrama3](../assets/modelagem/diagrama_configuracoes.jpeg)
+<figcaption>Imagem 3: diagrama de configuração</figcaption> 
 
 | UC3                   | Informações                                                 |
 |-----------------------|-------------------------------------------------------------|
@@ -45,8 +52,11 @@
 | Fluxo principal       |  O usuário acessa seu perfil na aplicação.    O usuário altera os dados.   O usuário salva as alterações         |
 | Pós condições         |  O usuário poderá ter seus dados atualizados           |
 
+<figcaption>Tabela 3: especificação do caso de uso de configuração</figcaption>
+
 ## 3.4 Fluxo de suporte
 ![diagrama4](../assets/modelagem/diagrama_suporte.jpeg) 
+<figcaption>Imagem 4: diagrama de suporte</figcaption>
 
 | UC4                   | Informações |
 |-----------------------|-------------------------------------------------------------|
@@ -56,6 +66,8 @@
 | Ação                  |  O usuário abre um chamado ao suporte       |
 | Fluxo principal       |  O usuário acessa o aplicativo.    O usuário acessa a área de suporte.   O usuário descreve o problema.    O usuário acessa a área de suporte   O usuário envia o chamado       |
 | Pós condições         |  O usuário poderá solucionar o problema           |
+
+<figcaption>Tabela 4: especificação do caso de uso de suporte</figcaption>
 
 ## 4. Bibliografia
 
