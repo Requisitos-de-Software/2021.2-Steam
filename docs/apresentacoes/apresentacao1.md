@@ -1,7 +1,11 @@
 ## 1.Planejamento
 
+<center>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EQa6hg-LvSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
+</center> 
+
 ## 2.Histórico de versões
 
 <center>
