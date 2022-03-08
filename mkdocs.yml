@@ -1,50 +1,47 @@
 site_name: steam
 
-repo_name: '2021.2-steam'
-repo_url: 'https://github.com/Requisitos-de-Software/2021.2-steam'
+repo_name: "2021.2-steam"
+repo_url: "https://github.com/Requisitos-de-Software/2021.2-steam"
 
 theme:
   name: material
-  language: 'pt'
-  logo: 'assets/steam-logo.svg'
-  favicon: 'assets/steam-logo.svg'
+  language: "pt"
+  logo: "assets/steam-logo.svg"
+  favicon: "assets/steam-logo.svg"
   palette:
     scheme: default
-    primary: 'blue grey'
-    accent: 'indigo'
+    primary: "blue grey"
+    accent: "indigo"
   font:
-    text: 'Montserrat'
-    code: 'sans-serif'
-  
+    text: "Montserrat"
+    code: "sans-serif"
 
 extra_css:
   - stylesheets/style.css
 
-
-nav: 
+nav:
   - Início: index.md
-  - Planejamento: 
-    - Metodologia: planejamento/metodologia.md
-    - Cronograma: planejamento/cronograma.md
-    - Ferramentas: planejamento/ferramentas.md
+  - Planejamento:
+      - Metodologia: planejamento/metodologia.md
+      - Cronograma: planejamento/cronograma.md
+      - Ferramentas: planejamento/ferramentas.md
   - Pré-rastreabilidade:
-    - RichPictures: pre_rastreabilidade/rich_pictures.md
+      - RichPictures: pre_rastreabilidade/rich_pictures.md
   - Elicitação:
-    - Personas: elicitacao/personas.md
-    - Técnicas:
+      - Personas: elicitacao/personas.md
+      - Técnicas:
           - Brainstorming: elicitacao/tecnicas/brainstorm.md
           - Observação: elicitacao/tecnicas/observacao.md
           - Introspecção: elicitacao/tecnicas/introspeccao.md
           - Questionário: elicitacao/tecnicas/questionario.md
-    - Priorização:
+      - Priorização:
           - MoSCoW: elicitacao/priorizacao/MoSCoW.md
-    - Resultado: elicitacao/resultado.md
+      - Resultado: elicitacao/resultado.md
   - Apresentações:
-    - Apresentação 1: apresentações/apresentação 1.md
-    - Apresentação 2: apresentações/apresentação 2.md
+      - Apresentação 1: apresentações/apresentação 1.md
+      - Apresentação 2: apresentações/apresentação 2.md
   - Modelagem:
-    - Casos de uso: modelagem/casos_de_uso.md
+      - Casos de uso: modelagem/casos_de_uso.md
+      - Lêxicos: modelagem/lexicos.md
 
-
-
-dev_addr: '0.0.0.0:8000'
+dev_addr: "0.0.0.0:8000"
