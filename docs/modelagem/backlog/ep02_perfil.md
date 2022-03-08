@@ -4,12 +4,12 @@
 
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... |                    Para poder...                    | Prioridade |
 | :-----------------: | :-------------: | :-----------------------------: | :-------------------------------------------------: | :--------: |
-|        US19         |       RF02       |          Visualizar seus amigos           |    Ver a lista de amigos    |    Must    |
+|        US19         |       RF02       |          Visualizar seus amigos           |    Ver a lista de amigos    |    Should    |
 |        US20         |       RF05       |      Visualizar e alterar seu perfil       | Editar as minhas informações de perfil |    Must    |
-|        US21         |       RF09       |      Visualizar a minhas partidas recentes         |   Visualizar o meu histórico de partidas   |    Must    |
-|        US22         |      RF14       |      Listar suas capturas de tela          |        destacar as minhas screenshots           |   Could    |
-|        US23         |      RF15       |      Visualizar suas insígnias         |      Ver as suas conquistas de conta        |   Should   |
-|        US24         |      RF16       |  Listar itens do inventario   |     Ver os itens do seu inventário     |   Could    |
+|        US21         |       RF09       |      Visualizar a minhas partidas recentes         |   Visualizar o meu histórico de partidas   |    Could    |
+|        US22         |      RF14       |      Listar suas capturas de tela          |        Organizar as minhas screenshots           |   Could    |
+|        US23         |      RF15       |      Visualizar suas insígnias         |      Ver as suas conquistas de conta        |   Won't   |
+|        US24         |      RF16       |  Listar itens do inventario   |     Ver os itens do seu inventário     |   Must    |
 
 ## US19 - Visualizar seus amigos
 

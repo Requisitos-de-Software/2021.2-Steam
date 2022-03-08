@@ -1,27 +1,27 @@
 # EP01 - Conta
 
 ## Histórias de usuário EP01
-
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... |               Para poder...               | Prioridade |
 | :-----------------: | :-------------: | :-----------------------------: | :---------------------------------------: | :--------: |
-|        US01         |       RF1       |         Realizar login          |     Acessar o conteúdo da plataforma      |    Must    |
+|        US01         |       RF01       |         Realizar login          |     Acessar o conteúdo da plataforma      |    Must    |
 |        US02         |       RF22       |         Acessar a minha biblioteca de jogos         |  Verificar quais jogos eu tenho na conta   |    Must    |
-|        US03         |       RF32       |      Ficar offline      |          Ficar invisível para os outros usuários         |    Must    |
+|        US03         |       RF32       |      Ficar offline      |          ???          |    Should    |
 |        US04         |      RF33       |    Finalizar sessão    |      Desconectar a minha conta do aplicativo       |    Must    |
-|        US05         |      RF34       | Aprovar anúncios do mercado |           Comprar e vender na comunidade           |    Must    |
+|        US05         |      RF34       | Aprovar anuncios do mercado |           Comprar e vender na comunidade           |    Must    |
 |        US06         |      RF35       |    Verificar token de acesso ao aplicativo     |   Realizar o login no aplicativo desktop    |    Must    |
-|        US07         |      RF36       |    Visualizar catálogo na loja    |     Ver qual jogo do catálogo eu desejo comprar            |   Should   |
-|        US08         |      RF37       |  Escolher produtos do catálogo  | Adiciona-lo para o carrinho de compras |   Could    |
-|        US09         |      RF38       |  Ter acesso ao carrinho de compras  | Visualizar e contabilizar os valores dos jogos |   Could    |
-|        US10         |      RF39       |  Procurar produtos do carrinho de compras | Verificar quais jogos estão na lista  |   Could    |
-|        US11         |      RF40       |  Ter acesso a lista de desejo de produtos do catalogo  | salvar jogos que eu tenho interesse |   Could    |
-|        US12         |      RF42       |  Ter acesso aos detalhes da conta  | Verificar os meus dados |   Could    |
-|        US13         |      RF43       |  Avaliar produto do catalogo  | Dar uma nota ao jogo |   Could    |
-|        US14         |      RF44       |  Escrever uma resenha sobre produto do catalogo  | Deixar a minha opinião sobre um jogo |   Could    |
-|        US15         |      RF46       |  Visualizar itens novos adiquiridos no inventario  | ??? |   Could    |
-|        US16         |      RF52       |  Desmontar itens do meu inventário  | Ganhar gemas |   Could    |
-|        US17         |      RF53       |  Fabricar itens com gemas  | Personalizar a minha conta |   Could    |
-|        US18         |      RF54       |  Criar itens de produtos já comprados  | ?? |   Could    |
+|        US07         |      RF36       |    Visualizar catálogo na loja    |           Ver as recomendações desse catálogo           |   Must   |
+|        US08         |      RF37       |  Escolher produto do catálogo  | Adiciona-lo para o carrinho de compras |   Must    |
+|        US09         |      RF38       |  Ter acesso ao carrinho de compras  | Visualizar e contabilizar os valores dos jogos |   Must    |
+|        US10         |      RF39       |  Procurar produtos do carrinho  | Verificar quais jogos estão na lista  |   Must    |
+|        US11         |      RF40       |  Ter acesso a lista de desejos de produtos do catalogo  | salvar jogos que eu tenho interesse |   Should    |
+|        US12         |      RF42       |  Ter acesso aos detalhes da conta  | Verificar os meus dados |   Must    |
+|        US13         |      RF43       |  Avaliar produto do catalogo  | Dar uma nota do jogo |   Should    |
+|        US14         |      RF44       |  Escrever uma resenha sobre produto do catalogo  | Deixar a minha opinião sobre um jogo |   Should    |
+|        US15         |      RF46       |  Visualizar itens novos adiquiridos no inventario  | ??? |   Must    |
+|        US16         |      RF52       |  Desmontar itens do meu inventário  | Ganhar gemas |   Must    |
+|        US17         |      RF53       |  Fabricar itens com gemas  | Personalizar a minha conta |   Must    |
+|        US18         |      RF54       |  Criar itens de produtos já comprados  | ?? |   Must    |
+
 
 ## US01 - Realizar login
 

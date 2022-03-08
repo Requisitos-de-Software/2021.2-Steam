@@ -21,62 +21,62 @@ As histórias de usuários normalmente seguem o padrão de papel-função-benef�
 | :-----------------: | :-------------: | :-----------------------------: | :---------------------------------------: | :--------: |
 |        US01         |       RF01       |         Realizar login          |     Acessar o conteúdo da plataforma      |    Must    |
 |        US02         |       RF22       |         Acessar a minha biblioteca de jogos         |  Verificar quais jogos eu tenho na conta   |    Must    |
-|        US03         |       RF32       |      Ficar offline      |          ???          |    Must    |
+|        US03         |       RF32       |      Ficar offline      |          ???          |    Should    |
 |        US04         |      RF33       |    Finalizar sessão    |      Desconectar a minha conta do aplicativo       |    Must    |
 |        US05         |      RF34       | Aprovar anuncios do mercado |           Comprar e vender na comunidade           |    Must    |
 |        US06         |      RF35       |    Verificar token de acesso ao aplicativo     |   Realizar o login no aplicativo desktop    |    Must    |
-|        US07         |      RF36       |    Visualizar catálogo na loja    |           Ver as recomendações desse catálogo           |   Should   |
-|        US08         |      RF37       |  Escolher produto do catálogo  | Adiciona-lo para o carrinho de compras |   Could    |
-|        US09         |      RF38       |  Ter acesso ao carrinho de compras  | Visualizar e contabilizar os valores dos jogos |   Could    |
-|        US10         |      RF39       |  Procurar produtos do carrinho  | Verificar quais jogos estão na lista  |   Could    |
-|        US11         |      RF40       |  Ter acesso a lista de desejos de produtos do catalogo  | salvar jogos que eu tenho interesse |   Could    |
-|        US12         |      RF42       |  Ter acesso aos detalhes da conta  | Verificar os meus dados |   Could    |
-|        US13         |      RF43       |  Avaliar produto do catalogo  | Dar uma nota do jogo |   Could    |
-|        US14         |      RF44       |  Escrever uma resenha sobre produto do catalogo  | Deixar a minha opinião sobre um jogo |   Could    |
-|        US15         |      RF46       |  Visualizar itens novos adiquiridos no inventario  | ??? |   Could    |
-|        US16         |      RF52       |  Desmontar itens do meu inventário  | Ganhar gemas |   Could    |
-|        US17         |      RF53       |  Fabricar itens com gemas  | Personalizar a minha conta |   Could    |
-|        US18         |      RF54       |  Criar itens de produtos já comprados  | ?? |   Could    |
+|        US07         |      RF36       |    Visualizar catálogo na loja    |           Ver as recomendações desse catálogo           |   Must   |
+|        US08         |      RF37       |  Escolher produto do catálogo  | Adiciona-lo para o carrinho de compras |   Must    |
+|        US09         |      RF38       |  Ter acesso ao carrinho de compras  | Visualizar e contabilizar os valores dos jogos |   Must    |
+|        US10         |      RF39       |  Procurar produtos do carrinho  | Verificar quais jogos estão na lista  |   Must    |
+|        US11         |      RF40       |  Ter acesso a lista de desejos de produtos do catalogo  | salvar jogos que eu tenho interesse |   Should    |
+|        US12         |      RF42       |  Ter acesso aos detalhes da conta  | Verificar os meus dados |   Must    |
+|        US13         |      RF43       |  Avaliar produto do catalogo  | Dar uma nota do jogo |   Should    |
+|        US14         |      RF44       |  Escrever uma resenha sobre produto do catalogo  | Deixar a minha opinião sobre um jogo |   Should    |
+|        US15         |      RF46       |  Visualizar itens novos adiquiridos no inventario  | ??? |   Must    |
+|        US16         |      RF52       |  Desmontar itens do meu inventário  | Ganhar gemas |   Must    |
+|        US17         |      RF53       |  Fabricar itens com gemas  | Personalizar a minha conta |   Must    |
+|        US18         |      RF54       |  Criar itens de produtos já comprados  | ?? |   Must    |
 
 
 ### EP02: Perfil
 
 | História de Usuário | Rastreabilidade | Eu, como usuário gostaria de... |                    Para poder...                    | Prioridade |
 | :-----------------: | :-------------: | :-----------------------------: | :-------------------------------------------------: | :--------: |
-|        US19         |       RF02       |          Visualizar seus amigos           |    Ver a lista de amigos    |    Must    |
+|        US19         |       RF02       |          Visualizar seus amigos           |    Ver a lista de amigos    |    Should    |
 |        US20         |       RF05       |      Visualizar e alterar seu perfil       | Editar as minhas informações de perfil |    Must    |
-|        US21         |       RF09       |      Visualizar a minhas partidas recentes         |   Visualizar o meu histórico de partidas   |    Must    |
+|        US21         |       RF09       |      Visualizar a minhas partidas recentes         |   Visualizar o meu histórico de partidas   |    Could    |
 |        US22         |      RF14       |      Listar suas capturas de tela          |        Organizar as minhas screenshots           |   Could    |
-|        US23         |      RF15       |      Visualizar suas insígnias         |      Ver as suas conquistas de conta        |   Should   |
-|        US24         |      RF16       |  Listar itens do inventario   |     Ver os itens do seu inventário     |   Could    |
+|        US23         |      RF15       |      Visualizar suas insígnias         |      Ver as suas conquistas de conta        |   Won't   |
+|        US24         |      RF16       |  Listar itens do inventario   |     Ver os itens do seu inventário     |   Must    |
 
 
 ### EP03: Social
 
 | História de Usuário | Rastreabilidade |    Eu, como usuário gostaria de...    |                                  Para poder...                                   | Prioridade |
 | :-----------------: | :-------------: | :-----------------------------------: | :------------------------------------------------------------------------------: | :--------: |
-|        US25         |       RF03       |           Abrir uma conversa com um amigo           |    Conversar com meus amigos                      |    Must    |
-|        US26         |       RF04       |           Visualizar as postagens dos meus amigos       |   Ver o conteudo criado pelo meu amigo     |    Must    |
-|        US27        |       RF06      |             Adicionar um novo amigo              |     Mais um amigo na minha conta       |    Must    |
-|        US28         |      RF07       |        Aceitar pedidos de amizade          |   Para adicionar mais um amigo na minha conta      |    Must    |
-|        US29         |      RF08       |     Bloquear outros usuários      |      Bloquear um usuário que eu não desejo mais interagir      |    Must    |
-|        US30         |      RF10       |   Remover um amigo    |    Remover um amigo da minha lista     |    Must    |
-|        US31         |      RF11       |           Promover amigo a moderador de transmissão   |    Adicionar mais um controlador nas minhas tramissões    |   Should   |
-|        US32         |      RF12       |     Fazer parte de grupos     |     Me juntar em grupos da comunidade       |   Should   |
-|        US33         |      RF13       | Sair de grupos |   Não fazer mais parte de algum grupo    |   Should   |
-|        US34         |      RF17       |    Propor trocar de itens entre inventarios     |   Trocar itens com meus amigos   |   Should   |
-|        US35         |      RF18       |      Visualizar o mercado da comunidade      |    Comprar itens do mercado comunidade       |   Should   |
-|        US36         |      RF19       |    Acessar a pagina inicial da comunidade      |   As últimas postagens da comunidade     |   Should   |
-|        US37         |      RF20       |    Visualizar as discussões da comunidade   | Acompanhar as discussões mais recentes |   Could    |
+|        US25         |       RF03       |           Abrir uma conversa com um amigo           |    Enviar mensagens para amigos                      |    Should    |
+|        US26         |       RF04       |           Visualizar as postagens dos meus amigos       |   Ver o conteudo criado pelo meu amigo     |    Should    |
+|        US27        |       RF06      |             Adicionar um novo amigo              |     Ter mais um amigo na minha conta       |    Should    |
+|        US28         |      RF07       |        Aceitar pedidos de amizade          |   Adicionar mais um amigo na minha conta      |    Should    |
+|        US29         |      RF08       |     Bloquear outros usuários      |      Bloquear um usuário que eu não desejo mais interagir      |    Should    |
+|        US30         |      RF10       |   Remover um amigo    |    Remover um amigo da minha lista     |    Should    |
+|        US31         |      RF11       |           Promover amigo a moderador de transmissão   |    Adicionar mais um controlador nas minhas tramissões    |   Could   |
+|        US32         |      RF12       |     Fazer parte de grupos     |     Me juntar em grupos da comunidade       |   Could   |
+|        US33         |      RF13       | Sair de grupos |   Não fazer mais parte de algum grupo    |   Could   |
+|        US34         |      RF17       |    Propor trocar de itens entre inventarios     |   Trocar itens com meus amigos   |   Must   |
+|        US35         |      RF18       |      Visualizar o mercado da comunidade      |    Ver anúncios da comunidade       |   Must   |
+|        US36         |      RF19       |    Acessar a pagina inicial da comunidade      |   Ver as últimas postagens da comunidade      |   Must   |
+|        US37         |      RF20       |    Visualizar as discussões da comunidade   | Acompanhar as discussões mais recentes |   Should    |
 |        US38         |      RF21       |    Acompanhar as transmissões         |    Assistir as partidas de jogadores da comunidade     |   Could    |
-|        US39         |      RF41       |   Ter acesso as noticias da steam    |    Ver as novidades na steam    |   Should   |
+|        US39         |      RF41       |   Ter acesso as noticias da steam    |    Ver as novidades na steam    |   Could   |
 |        US40         |      RF45       |   Visualizar comentarios em treads criadas na comunidade   |   Ler os comentários dessa tread   |   Could    |
-|        US41         |      RF47       |   Visualizar a lista de presentes enviados pelos amigos   |   Ver quem enviou este presente    |   Could    |
+|        US41         |      RF47       |   Visualizar a lista de presentes enviados pelos amigos   |   Ver quem enviou este presente    |   Must    |
 |        US42         |      RF48       |   Visualizar as recomendações no perfil do jogo   |   Rececer essa recomendações   |   Could    |
-|        US43         |      RF49       |   Reagir com figurinhas diferentes as postagens do perfil do jogo   |  Interagir de uma maneira diferente no perfil do jogo  |   Could    |
+|        US43         |      RF49       |   Reagir com figurinhas diferentes as postagens do perfil do jogo   |  Interagir de uma maneira diferente no perfil do jogo  |   Won't    |
 |        US44         |      RF50       |   Criar uma comunidade ou uma transmissão de um jogo   |  Streamar algum jogo ou criar uma maneira de interação sobre este jogos  |   Could    |
-|        US45         |      RF51       |   Restringir numero de caracteres na comunicação da comunidade   |  Limitar o tamanho das mensagens   |   Could    |
-|        US46         |      RF55       |   Trocar itens criados com outros usuarios  |  Ter outros itens no meu inventário   |   Could    |
+|        US45         |      RF51       |   Restringir numero de caracteres na comunicação da comunidade   |  Limitar o tamanho das mensagens   |   Won't    |
+|        US46         |      RF55       |   Trocar itens criados com outros usuarios  |  Ter outros itens no meu inventário   |   Must    |
 
 ### EP04: Suporte
 
@@ -88,9 +88,9 @@ As histórias de usuários normalmente seguem o padrão de papel-função-benef�
 |        US50         |      RF26       |  Ter acesso a suporte a conta   |   Resolver problemas relacionados a conta      |    Must    |
 |        US51         |      RF27       |  Ter acesso a suporte a trocas, presentes, mercado da comunidade e pontos steam      | Resolver problemas relacionados a trocas, presentes, mercado da comunidade e pontos steam |    Must    |
 |        US52         |      RF28       |  Ter acesso a suporte ao cliente steam     |  Resolver problemas relacionados ao cliente steam     |    Must    |
-|        US53         |      RF29       |  Ter acesso a suporte a comunidade steam   |   Resolver problemas relacionados a comunidade steam   |   Should   |
-|        US54         |      RF30       |  Ter acesso a suporte ao hardware steam |  Resolver problemas relacionados ao harware steam   |   Should   |
-|        US55         |      RF31       | Ter acesso aos historicos de chamados no suporte steam |  Ver quais foram os seus problemas passados |   Should   |
+|        US53         |      RF29       |  Ter acesso a suporte a comunidade steam   |   Resolver problemas relacionados a comunidade steam   |   Must   |
+|        US54         |      RF30       |  Ter acesso a suporte ao hardware steam |  Resolver problemas relacionados ao harware steam   |   Must   |
+|        US55         |      RF31       | Ter acesso aos historicos de chamados no suporte steam |  Ver quais foram os seus problemas passados |   Must   |
 
 ## 4. Bibliografia
 
