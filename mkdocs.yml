@@ -42,7 +42,12 @@ nav:
     - Cenários: modelagem/cenarios.md
     - Casos de uso: modelagem/casos_de_uso.md
     - Lêxicos: modelagem/lexicos.md
-    
+    - Backlog: 
+        - Backlog do produto: modelagem/backlog/backlog_produto.md 
+        - EP01 - Conta: modelagem/backlog/ep01_conta.md
+        - EP02 - Perfil: modelagem/backlog/ep02_perfil.md
+        - EP03 - Social: modelagem/backlog/ep03_social.md
+        - EP04 - Suporte: modelagem/backlog/ep04_suporte.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
