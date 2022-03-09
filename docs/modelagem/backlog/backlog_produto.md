@@ -33,10 +33,10 @@ As histórias de usuários normalmente seguem o padrão de papel-função-benef�
 |        US12         |      RF42       |  Ter acesso aos detalhes da conta  | Verificar os meus dados |   Must    |
 |        US13         |      RF43       |  Avaliar produto do catalogo  | Dar uma nota do jogo |   Should    |
 |        US14         |      RF44       |  Escrever uma resenha sobre produto do catalogo  | Deixar a minha opinião sobre um jogo |   Should    |
-|        US15         |      RF46       |  Visualizar itens novos adiquiridos no inventario  | ??? |   Must    |
+|        US15         |      RF46       |  Visualizar itens novos adiquiridos no inventario  | Ver as últimas adições ao inventário |   Must    |
 |        US16         |      RF52       |  Desmontar itens do meu inventário  | Ganhar gemas |   Must    |
 |        US17         |      RF53       |  Fabricar itens com gemas  | Personalizar a minha conta |   Must    |
-|        US18         |      RF54       |  Criar itens de produtos já comprados  | ?? |   Must    |
+|        US18         |      RF54       |  Criar itens de produtos já comprados  | Personalizar a minha conta com o tema deste produto |   Must    |
 
 <figcaption>Tabela 1: Épico de conta.</figcaption>
 
