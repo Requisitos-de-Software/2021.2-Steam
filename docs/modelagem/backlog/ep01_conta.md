@@ -22,6 +22,7 @@
 |        US17         |      RF53       |  Fabricar itens com gemas  | Personalizar a minha conta |   Must    |
 |        US18         |      RF54       |  Criar itens de produtos já comprados  | Personalizar a minha conta com o tema deste produto |   Must    |
 
+<figcaption>Tabela 1: Épico de conta.</figcaption>
 
 ## US01 - Realizar login
 

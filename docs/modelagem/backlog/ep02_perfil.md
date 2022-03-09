@@ -11,6 +11,8 @@
 |        US23         |      RF15       |      Visualizar suas insígnias         |      Ver as suas conquistas de conta        |   Won't   |
 |        US24         |      RF16       |  Listar itens do inventario   |     Ver os itens do seu inventário     |   Must    |
 
+<figcaption>Tabela 1: Épico de perfil.</figcaption>
+
 ## US19 - Visualizar seus amigos
 
 Eu, como usuário, gostaria de ver a minha lista de amizade para ver os meus amigos.

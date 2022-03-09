@@ -14,6 +14,8 @@
 |        US54         |      RF30       |  Ter acesso a suporte ao hardware steam |  Resolver problemas relacionados ao harware steam   |   Must   |
 |        US55         |      RF31       | Ter acesso aos historicos de chamados no suporte steam |  Ver quais foram os seus problemas passados |   Must   |
 
+<figcaption>Tabela 1: Épico de suporte.</figcaption>
+
 ## US47 - Ter acesso a suporte de jogos, softwares, etc
 
 Eu, como usuário, gostaria de ter acesso a suporte de jogos, softwares, etc para poder resolver problemas relacionados aos jogos , softwares e etc.

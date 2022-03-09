@@ -27,6 +27,8 @@
 |        US45         |      RF51       |   Restringir numero de caracteres na comunicação da comunidade   |  Limitar o tamanho das mensagens   |   Won't    |
 |        US46         |      RF55       |   Trocar itens criados com outros usuarios  |  Ter outros itens no meu inventário   |   Must    |
 
+<figcaption>Tabela 1: Épico de social.</figcaption>
+
 
 ## US25 - Abrir conversa com amigo
 

@@ -38,6 +38,7 @@ As histórias de usuários normalmente seguem o padrão de papel-função-benef�
 |        US17         |      RF53       |  Fabricar itens com gemas  | Personalizar a minha conta |   Must    |
 |        US18         |      RF54       |  Criar itens de produtos já comprados  | ?? |   Must    |
 
+<figcaption>Tabela 1: Épico de conta.</figcaption>
 
 ### EP02: Perfil
 
@@ -50,6 +51,7 @@ As histórias de usuários normalmente seguem o padrão de papel-função-benef�
 |        US23         |      RF15       |      Visualizar suas insígnias         |      Ver as suas conquistas de conta        |   Won't   |
 |        US24         |      RF16       |  Listar itens do inventario   |     Ver os itens do seu inventário     |   Must    |
 
+<figcaption>Tabela 2: Épico de perfil.</figcaption>
 
 ### EP03: Social
 
@@ -78,6 +80,8 @@ As histórias de usuários normalmente seguem o padrão de papel-função-benef�
 |        US45         |      RF51       |   Restringir numero de caracteres na comunicação da comunidade   |  Limitar o tamanho das mensagens   |   Won't    |
 |        US46         |      RF55       |   Trocar itens criados com outros usuarios  |  Ter outros itens no meu inventário   |   Must    |
 
+<figcaption>Tabela 3: Épico de social.</figcaption>
+
 ### EP04: Suporte
 
 | História de Usuário | Rastreabilidade |    Eu, como usuário gostaria de...    |                                  Para poder...                                   | Prioridade |
@@ -91,6 +95,8 @@ As histórias de usuários normalmente seguem o padrão de papel-função-benef�
 |        US53         |      RF29       |  Ter acesso a suporte a comunidade steam   |   Resolver problemas relacionados a comunidade steam   |   Must   |
 |        US54         |      RF30       |  Ter acesso a suporte ao hardware steam |  Resolver problemas relacionados ao harware steam   |   Must   |
 |        US55         |      RF31       | Ter acesso aos historicos de chamados no suporte steam |  Ver quais foram os seus problemas passados |   Must   |
+
+<figcaption>Tabela 4: Épico de suporte.</figcaption>
 
 ## 4. Bibliografia
 
