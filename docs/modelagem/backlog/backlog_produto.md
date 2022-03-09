@@ -8,8 +8,8 @@
 <br />
  - [Conta](ep01_conta.md)<br />
  - [Perfil](ep02_perfil.md)<br />
- - [Social] (ep03_social.md)<br />
- - [Suporte](ep04_conteudo.md)<br />
+ - [Social](ep03_social.md)<br />
+ - [Suporte](ep04_suporte.md)<br />
 
 ## 3. Histórias de Usuários
 &emsp;&emsp;Em Agile, uma história de usuário é uma descrição curta, informal e em linguagem simples do que um usuário quer fazer dentro de um produto de software para obter algo que ele considere valioso.
@@ -21,7 +21,7 @@ As histórias de usuários normalmente seguem o padrão de papel-função-benef�
 | :-----------------: | :-------------: | :-----------------------------: | :---------------------------------------: | :--------: |
 |        US01         |       RF01       |         Realizar login          |     Acessar o conteúdo da plataforma      |    Must    |
 |        US02         |       RF22       |         Acessar a minha biblioteca de jogos         |  Verificar quais jogos eu tenho na conta   |    Must    |
-|        US03         |       RF32       |      Ficar offline      |          ???          |    Should    |
+|        US03         |       RF32       |      Ficar offline      |          Ficar invisível para os outros usuários           |    Should    |
 |        US04         |      RF33       |    Finalizar sessão    |      Desconectar a minha conta do aplicativo       |    Must    |
 |        US05         |      RF34       | Aprovar anuncios do mercado |           Comprar e vender na comunidade           |    Must    |
 |        US06         |      RF35       |    Verificar token de acesso ao aplicativo     |   Realizar o login no aplicativo desktop    |    Must    |
@@ -84,7 +84,7 @@ As histórias de usuários normalmente seguem o padrão de papel-função-benef�
 | :-----------------: | :-------------: | :-----------------------------------: | :------------------------------------------------------------------------------: | :--------: |
 |        US47         |       RF23       |     Ter acesso a suporte de jogos, softwares, etc     |       Resolver problemas relacionados aos jogos , softwares e etc            |    Must    |
 |        US48         |       RF24       |    Ter acesso a suporte a compras    |   Resolver problemas relacionados a compras     |    Must    |
-|        US49         |       RF25       |    Ter acesso a suporte a problemas específicos no steam        |   Resolver problemas relacionados a problemas específicos no steam   |    Must    |
+|        US49         |       RF25       |    Ter acesso a suporte a problemas específicos no steamOS        |   Resolver problemas relacionados a problemas específicos no steamOS   |    Must    |
 |        US50         |      RF26       |  Ter acesso a suporte a conta   |   Resolver problemas relacionados a conta      |    Must    |
 |        US51         |      RF27       |  Ter acesso a suporte a trocas, presentes, mercado da comunidade e pontos steam      | Resolver problemas relacionados a trocas, presentes, mercado da comunidade e pontos steam |    Must    |
 |        US52         |      RF28       |  Ter acesso a suporte ao cliente steam     |  Resolver problemas relacionados ao cliente steam     |    Must    |

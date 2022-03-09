@@ -5,7 +5,7 @@
 | :-----------------: | :-------------: | :-----------------------------: | :---------------------------------------: | :--------: |
 |        US01         |       RF01       |         Realizar login          |     Acessar o conteúdo da plataforma      |    Must    |
 |        US02         |       RF22       |         Acessar a minha biblioteca de jogos         |  Verificar quais jogos eu tenho na conta   |    Must    |
-|        US03         |       RF32       |      Ficar offline      |          ???          |    Should    |
+|        US03         |       RF32       |      Ficar offline      |         Ficar invisível para os outros usuários        |    Should    |
 |        US04         |      RF33       |    Finalizar sessão    |      Desconectar a minha conta do aplicativo       |    Must    |
 |        US05         |      RF34       | Aprovar anuncios do mercado |           Comprar e vender na comunidade           |    Must    |
 |        US06         |      RF35       |    Verificar token de acesso ao aplicativo     |   Realizar o login no aplicativo desktop    |    Must    |
@@ -17,10 +17,10 @@
 |        US12         |      RF42       |  Ter acesso aos detalhes da conta  | Verificar os meus dados |   Must    |
 |        US13         |      RF43       |  Avaliar produto do catalogo  | Dar uma nota do jogo |   Should    |
 |        US14         |      RF44       |  Escrever uma resenha sobre produto do catalogo  | Deixar a minha opinião sobre um jogo |   Should    |
-|        US15         |      RF46       |  Visualizar itens novos adiquiridos no inventario  | ??? |   Must    |
+|        US15         |      RF46       |  Visualizar itens novos adiquiridos no inventario  | Ver as últimas adições ao inventário |   Must    |
 |        US16         |      RF52       |  Desmontar itens do meu inventário  | Ganhar gemas |   Must    |
 |        US17         |      RF53       |  Fabricar itens com gemas  | Personalizar a minha conta |   Must    |
-|        US18         |      RF54       |  Criar itens de produtos já comprados  | ?? |   Must    |
+|        US18         |      RF54       |  Criar itens de produtos já comprados  | Personalizar a minha conta com o tema deste produto |   Must    |
 
 
 ## US01 - Realizar login
@@ -115,7 +115,8 @@ Eu, como usuário, gostaria de ter acesso a lista de desejo de produtos do catá
 
 **Critérios de aceitação**
 
-* ???
+* Deve poder adicionar um produto a lista de desejo.
+* Deve poder visualizar produtos dentro da lista de desejo.
 
 ## US12 - Ter acesso aos detalhes da conta
 
@@ -143,11 +144,13 @@ Eu, como usuário, gostaria de gostaria de escrever uma resenha sobre o produto 
 
 ## US15 - Visualizar itens novos adiquiridos no inventario
 
-Eu, como usuário, gostaria de visualizar itens novos do inventário para poder ????.
+Eu, como usuário, gostaria de visualizar itens novos do inventário para poder visualizar as últimas adições ao inventário.
 
 **Critérios de aceitação**
 
-* ???.
+* Deve mostrar para o usuário os itens mais novos do inventário.
+* Depois de verificado o item deve sair classificação de itens novos.
+
 
 ## US16 - Desmontar itens do meu inventário
 
@@ -170,11 +173,11 @@ Eu, como usuário, gostaria de fabricar itens com gemas para poder personalizar 
 
 ## US18 - Criar itens de produtos já comprados
 
-Eu, como usuário, gostaria de criar itens de produtos ja comprados para poder ????.
+Eu, como usuário, gostaria de criar itens de produtos já comprados para poder personalizar a minha conta com o tema deste produto.
 
 **Critérios de aceitação**
 
-* ????.
+* Deve poder criar itens de personalização de conta sobre o tema do produto.
 
 ## Histórico de versão
 
