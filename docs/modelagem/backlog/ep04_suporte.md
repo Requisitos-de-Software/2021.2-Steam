@@ -22,7 +22,7 @@ Eu, como usuário, gostaria de ter acesso a suporte de jogos, softwares, etc par
 
 **Critérios de aceitação**
 
-* Deve Mostrar soluções para os preoblemas pesquisados.
+* Deve mostrar possíveis soluções para os preoblemas pesquisados.
 
 ## US48 - Ter acesso a suporte a compras
 
@@ -30,7 +30,7 @@ Eu, como usuário, gostaria de ter acesso a suporte a compras para poder resolve
 
 **Critérios de aceitação**
 
-* Deve Mostrar soluções para os preoblemas pesquisados.
+* Deve mostrar possíveis soluções para os preoblemas pesquisados.
 
 ## US49 - Ter acesso a suporte a problemas específicos no steamOS
 
@@ -38,7 +38,7 @@ Eu, como usuário, gostaria de ter acesso a suporte a problemas específicos no 
 
 **Critérios de aceitação**
 
-* Deve Mostrar soluções para os preoblemas pesquisados.
+* Deve mostrar possíveis soluções para os preoblemas pesquisados.
 
 ## US50 - Ter acesso a suporte a conta
 
@@ -46,7 +46,7 @@ Eu, como usuário, gostaria de ter acesso a suporte a conta para poder resolver 
 
 **Critérios de aceitação**
 
-* Deve Mostrar soluções para os preoblemas pesquisados.
+* Deve mostrar possíveis soluções para os preoblemas pesquisados.
 
 ## US51 - Ter acesso a suporte a trocas, presentes, mercado da comunidade e pontos steam
 
@@ -54,7 +54,7 @@ Eu, como usuário, gostaria de ter acesso a suporte a trocas, presentes, mercado
 
 **Critérios de aceitação**
 
-* Deve Mostrar soluções para os preoblemas pesquisados.
+* Deve mostrar possíveis soluções para os preoblemas pesquisados.
 
 ## US52 - Ter acesso a suporte ao cliente steam
 
@@ -62,7 +62,7 @@ Eu, como usuário, gostaria de ter acesso a suporte ao cliente steam para poder 
 
 **Critérios de aceitação**
 
-* Deve Mostrar soluções para os preoblemas pesquisados.
+* Deve mostrar possíveis soluções para os preoblemas pesquisados.
 
 ## US53 - Ter acesso a suporte a comunidade steam
 
@@ -70,7 +70,7 @@ Eu, como usuário, gostaria de ter acesso a suporte a comunidade steam para pode
 
 **Critérios de aceitação**
 
-* Deve Mostrar soluções para os preoblemas pesquisados.
+* Deve mostrar possíveis soluções para os preoblemas pesquisados.
 
 ## US54 - Ter acesso a suporte ao hardware steam
 
@@ -78,7 +78,7 @@ Eu, como usuário, gostaria de ter acesso a suporte ao hardware steam para poder
 
 **Critérios de aceitação**
 
-* Deve Mostrar soluções para os preoblemas pesquisados.
+* Deve mostrar possíveis soluções para os preoblemas pesquisados.
 
 ## US55 - Ter acesso aos historicos de chamados no suporte steam
 
