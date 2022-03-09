@@ -29,7 +29,6 @@ Eu, como usuário, gostaria de visualizar e alterar o meu perfil para poder edit
 
 * O usuário deve fornecer informações válidas.
 * Deve atualizar as informações do perfil.
-* Deve ter acesso a todos os jogos adicionados a sua biblioteca.
 
 ## US21 - Visualizar as minhas partidas recentes
 
