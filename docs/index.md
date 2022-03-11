@@ -15,12 +15,12 @@
 ## 3. Equipe
 <center>  
 
-| Nome  | GitHub |
-| ------------- | ------------- |
-| João Paulo Coelho | JoãoPauloCoelho  |
-| ingrid da silva carvalho | ingridSCarvalho |
-| Mateus Cunha Maia | mateusmaiamaia  |
-| Matheus Yan Monteiro| matheusyanmonteiro |
-| Rhuan Marques  | RhuanMr  |
+|                                                           | Membro             | Github            |
+| --------------------------------------------------------- | ------------------ | ----------------- |
+| <img src="./assets/participantes/joao.jpg" width="100" style="border-radius: 70%"/>  |João Paulo Coelho | JoãoPauloCoelho  |
+| <img src="./assets/participantes/ingrid.jpg" width="100" style="border-radius: 70%"/>  |ingrid da silva carvalho | ingridSCarvalho |
+| <img src="./assets/participantes/maia.jpg" width="100" style="border-radius: 70%"/>  |Mateus Cunha Maia | mateusmaiamaia  |
+| <img src="./assets/participantes/monteiro.jpg" width="100" style="border-radius: 70%"/>  |Matheus Yan Monteiro| matheusyanmonteiro |
+| <img src="./assets/participantes/rhuan.jpg" width="100" style="border-radius: 70%"/>  |Rhuan Marques  | RhuanMr  |
 
 </center>
