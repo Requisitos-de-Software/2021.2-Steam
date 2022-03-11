@@ -14,19 +14,25 @@
 - Matheus Yan Monteiro
 
 ## 4. Resultados
+
 &emsp;&emsp;Como resultado dessa técnica, foram levantados 4 requistos que ainda não haviam sido levantados pelas outras técnicas. Estes estão listados a seguir:
 
-| Número | Requisitos                                       |
-| :------: | :--------------------------------------------------: |
-| 1        | O sistema deverá permitir que o usuario desmonte intes do usuario em troca de gemas |
-| 2        | O usuario deve poder fabricar intens especificos com as gemas |
-| 3        | O usuario só pode criar intens de produtos já comprados no catalogo da steam |
-| 4        | O usuario pode trocar intens criados com outros usuarios |
+| Número |                                     Requisitos                                      |
+| :----: | :---------------------------------------------------------------------------------: |
+|   1    | O sistema deverá permitir que o usuario desmonte intes do usuario em troca de gemas |
+|   2    |            O usuario deve poder fabricar intens especificos com as gemas            |
+|   3    |    O usuario só pode criar intens de produtos já comprados no catalogo da steam     |
+|   4    |              O usuario pode trocar intens criados com outros usuarios               |
 
 <figcaption>Tabela 1: Requisitos levantados pela técnida de introspecção.</figcaption>
 
-## 5. Histórico de versão
+## 5. Bibliografia
 
-| Versão | Data       | Descrição                                           | Autor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 19/02/2022 | Criação da documentação relacionadad a introspecção | Matheus monteiro| 
+SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07
+
+## 6. Histórico de versão
+
+| Versão | Data       | Descrição                                           | Autor             |
+| ------ | ---------- | --------------------------------------------------- | ----------------- |
+| 0.1    | 19/02/2022 | Criação da documentação relacionadad a introspecção | Matheus monteiro  |
+| 0.2    | 11/03/2022 | Criação da bibliografia                             | João Paulo Coelho |

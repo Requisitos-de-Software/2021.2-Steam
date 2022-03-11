@@ -1,6 +1,7 @@
 # Questionário
 
 ## 1.Definição
+
 A técnica de elicitação por meio de questionários baseia-se no levantamento de um grupo de pessoas em busca de opiniões, visões e outras questões relacionadas a um determinado tópico. No que diz respeito ao nosso projeto, este questionário foi realizado online para não onerar a equipe, além de trazer segurança para equipe e as pessoas que realizaram o questionário, por conta da pandemia. Desta forma conseguiríamos atingir uma maior quantidade de pessoas, com dados diversos.
 
 ## 2.Metodologia
@@ -12,8 +13,6 @@ A técnica de realizar questionário acaba sendo, muitas vezes, inflexível, por
 O questionário foi montado utilizando a ferramenta Google Forms, possuindo um total de 10 questões, tentando abranger todo o escopo do aplicativo. Esse número de perguntas foi levado em consideração, para evitar o cansaço do público, na hora de responder o questionário.
 
 Com a divulgação da equipe, nos grupos e redes sociais, conseguimos atingir um total de 42 respostas, atingindo o propósito de aplicarmos essa técnica, além de alcançarmos uma boa diversidade de respostas para analisarmos.
-
-
 
 ## 3.Questões
 
@@ -33,7 +32,7 @@ Primeiramente o grupo procurou conhecer o público filtrando as pessoas que nunc
 <figcaption>Imagem 2: Questão 2 do questionário</figcaption>
 </center>
 
-Um passo importante a ser considerado, é a de saber a faixa etária dos usuários. Sabendo disso, é possível traçar um perfil dos possíveis usuários, principalmente na hora de criar uma persona. Podemos ver que a faixa etária do público tem entre 14-30 anos. 
+Um passo importante a ser considerado, é a de saber a faixa etária dos usuários. Sabendo disso, é possível traçar um perfil dos possíveis usuários, principalmente na hora de criar uma persona. Podemos ver que a faixa etária do público tem entre 14-30 anos.
 
 ### Questão 3
 
@@ -88,6 +87,7 @@ Essa pergunta foi sobre o pretexto de saber se as exigências dos usuários est�
 </center>
 
 Esse questão nos mostra como é a experiência dos usuários desse aplicativo, principalmente para saber se eles estão tendo uma boa experiência.
+
 ### Questão 9
 
 <center>
@@ -95,7 +95,7 @@ Esse questão nos mostra como é a experiência dos usuários desse aplicativo, 
 <figcaption>Imagem 9: Questão 9 do questionário</figcaption>
 </center>
 
-Com essa questão, nos foi mostrado quais requisitos que não existem no aplicativo e adiciona-los nos requisitos seria de grande importância para a experiência dos usuários. Saber dos problemas dos usuários é crucial para o aprimoramento do aplicativo. 
+Com essa questão, nos foi mostrado quais requisitos que não existem no aplicativo e adiciona-los nos requisitos seria de grande importância para a experiência dos usuários. Saber dos problemas dos usuários é crucial para o aprimoramento do aplicativo.
 
 ### Questão 10
 
@@ -106,16 +106,19 @@ Com essa questão, nos foi mostrado quais requisitos que não existem no aplicat
 
 Por fim, procuramos saber como o usuário se sentia com relação a UX e UI do aplicativo, em relação ao nível de satisfação.
 
+## 4.Bibliografia
 
+SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07
 
-## 4.Histórico de versão
+## 5.Histórico de versão
 
 </center>
 
-| Versão | Data       | Descrição                                           | Autor        |
-| ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 20/02/2022 | Criação da documentação dos questionários             | Mateus Maia e Matheus Monteiro |
-| 0.2    | 21/02/2022 | Adição das imagens referentes as perguntas do questionário           | Mateus Maia |
-| 0.3    | 21/02/2022 | Revisão gramatical do texto            | Matheus Monteiro |
+| Versão | Data       | Descrição                                                  | Autor                          |
+| ------ | ---------- | ---------------------------------------------------------- | ------------------------------ |
+| 0.1    | 20/02/2022 | Criação da documentação dos questionários                  | Mateus Maia e Matheus Monteiro |
+| 0.2    | 21/02/2022 | Adição das imagens referentes as perguntas do questionário | Mateus Maia                    |
+| 0.3    | 21/02/2022 | Revisão gramatical do texto                                | Matheus Monteiro               |
+| 0.4    | 11/03/2022 | Criação da bibliografia                                    | João Paulo Coelho              |
 
 </center>
