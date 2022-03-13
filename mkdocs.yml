@@ -38,21 +38,21 @@ nav:
           - MoSCoW: elicitacao/priorizacao/MoSCoW.md
       - Resultado: elicitacao/resultado.md
   - Modelagem:
-    - Especificação Suplementar: modelagem/especificacao_suplementar.md
-    - Cenários: modelagem/cenarios.md
-    - Casos de uso: modelagem/casos_de_uso.md
-    - Lêxicos: modelagem/lexicos.md
-    - NFR Framework: modelagem/nfr_framework.md
-    - Backlog: 
-        - Backlog do produto: modelagem/backlog/backlog_produto.md 
-        - EP01 - Conta: modelagem/backlog/ep01_conta.md
-        - EP02 - Perfil: modelagem/backlog/ep02_perfil.md
-        - EP03 - Social: modelagem/backlog/ep03_social.md
-        - EP04 - Suporte: modelagem/backlog/ep04_suporte.md
+      - Especificação Suplementar: modelagem/especificacao_suplementar.md
+      - Cenários: modelagem/cenarios.md
+      - Casos de uso: modelagem/casos_de_uso.md
+      - Lêxicos: modelagem/lexicos.md
+      - NFR Framework: modelagem/nfr_framework.md
+      - Backlog:
+          - Backlog do produto: modelagem/backlog/backlog_produto.md
+          - EP01 - Conta: modelagem/backlog/ep01_conta.md
+          - EP02 - Perfil: modelagem/backlog/ep02_perfil.md
+          - EP03 - Social: modelagem/backlog/ep03_social.md
+          - EP04 - Suporte: modelagem/backlog/ep04_suporte.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
       - Apresentação 3: apresentacoes/apresentacao3.md
-
+      - Apresentação 4: apresentacoes/apresentacao4.md
 
 dev_addr: "0.0.0.0:8000"
