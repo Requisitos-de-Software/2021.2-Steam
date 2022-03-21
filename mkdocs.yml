@@ -49,6 +49,15 @@ nav:
           - EP02 - Perfil: modelagem/backlog/ep02_perfil.md
           - EP03 - Social: modelagem/backlog/ep03_social.md
           - EP04 - Suporte: modelagem/backlog/ep04_suporte.md
+  - Analise:
+    - Verificação:
+      - Verificação: analise/verificacao/verificacao.md
+      - Backlog: analise/verificacao/backlog.md
+      - Casos de uso: analise/verificacao/casos_de_uso.md
+      - Cenários: analise/verificacao/cenarios.md
+      - Léxicos: analise/verificacao/lexicos.md
+      - NFR framework: analise/verificacao/nfr_framework.md
+      - Rich Pictures: analise/verificacao/rich_picture.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
