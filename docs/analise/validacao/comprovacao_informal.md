@@ -30,4 +30,4 @@ a implementação.
 
 | Versão | Data       | Descrição                                           | Autor        |
 | ------ | ---------- | --------------------------------------------------- | ------------ |
-| 0.1    | 22/03/2022 | Criaçao dos textos e explicação da metodologia | Matheus Monteiro
+| 0.1    | 22/03/2022 | Criaçao dos textos e explicação da metodologia | Matheus Monteiro |
