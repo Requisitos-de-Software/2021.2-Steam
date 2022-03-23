@@ -58,6 +58,8 @@ nav:
       - Léxicos: analise/verificacao/lexicos.md
       - NFR framework: analise/verificacao/nfr_framework.md
       - Rich Pictures: analise/verificacao/rich_picture.md
+    - Validação: 
+      - Comprovação Informal: analise/validacao/comprovacao_informal.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
