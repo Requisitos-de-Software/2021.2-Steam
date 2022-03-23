@@ -25,3 +25,9 @@ a implementação.
 &emsp;&emsp; via site steam
 
 ![steam](../../assets/comprovacao-informal/contato.png)
+
+## 4. Histórico de versão
+
+| Versão | Data       | Descrição                                           | Autor        |
+| ------ | ---------- | --------------------------------------------------- | ------------ |
+| 0.1    | 22/03/2022 | Criaçao dos textos e explicação da metodologia | Matheus Monteiro
