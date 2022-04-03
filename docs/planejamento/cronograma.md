@@ -70,8 +70,8 @@ Esta tabela mostra o planejamento das atividades no decorrer do semestre, com os
 
 | Artefato | Responsável       | Revisor                      | 
 | ------ | ---------- | --------------------------------------------------- | 
-| Pós-rastreabilidade | Todos integrantes  | Todos integrantes |
-
+| Backfoward-from | Ingrid Carvalho, João Coelho  | Mateus Maia e Matheus Monteiro |
+| Foward-from | Mateus Maia e Matheus Monteiro  | Ingrid Carvalho, João Coelho |
 
 ### 3.7 Entrega Final - Apresentação final
 

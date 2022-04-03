@@ -67,5 +67,6 @@ nav:
       - Apresentação 4: apresentacoes/apresentacao4.md
   - Pós rastreabilidade:
       - backward_from: pos_rastreabilidade/backward_from.md
+      - Foward-from: pos_rastreabilidade/foward_from.md
 
 dev_addr: "0.0.0.0:8000"
