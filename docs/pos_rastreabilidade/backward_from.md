@@ -27,7 +27,7 @@ A técnica de pós rastreabilidade ultilizada para criação deste documento foi
 |   17   | O usuário deve poder propor trocar de intens entre inventarios       | Brainstorm   |
 |   18   | O usuário deve poder vê o mercado da comunidade                      | Brainstorm   |
 |   19   | O usuario deve poder ter acesso a pagina inicial da comunidade       | Brainstorm   |
-|   20   | O usuaário deve poder vê as discursões da comunidade                 | Brainstorm   |
+|   20   | O usuário deve poder vê as discursões da comunidade                 | Brainstorm   |
 |   21   | O usuario deve poder acompanhar as transmissões                      | Brainstorm   |
 |   22   | O usuario deve poder ter acesso sua biblioteca                       | Brainstorm   |
 |   23   | O Usuario deve poder ter acesso a suporte de jogos, softwares, etc   | Brainstorm   |
