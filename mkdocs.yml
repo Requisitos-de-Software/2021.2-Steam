@@ -60,13 +60,15 @@ nav:
       - Rich Pictures: analise/verificacao/rich_picture.md
     - Validação: 
       - Comprovação Informal: analise/validacao/comprovacao_informal.md
+  - Pós-rastreabilidade:
+    - Backward-from: pos_rastreabilidade/backward_from.md
+    - Foward-from: pos_rastreabilidade/foward_from.md
   - Apresentações:
       - Apresentação 1: apresentacoes/apresentacao1.md
       - Apresentação 2: apresentacoes/apresentacao2.md
       - Apresentação 3: apresentacoes/apresentacao3.md
       - Apresentação 4: apresentacoes/apresentacao4.md
-  - Pós rastreabilidade:
-      - backward_from: pos_rastreabilidade/backward_from.md
-      - Foward-from: pos_rastreabilidade/foward_from.md
+      - Apresentação 5: apresentacoes/apresentacao5.md
+      - Apresentação 6: apresentacoes/apresentacao6.md
 
 dev_addr: "0.0.0.0:8000"
