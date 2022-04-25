@@ -21,6 +21,5 @@
 | <img src="./assets/participantes/ingrid.jpg" width="100" style="border-radius: 70%"/>  |ingrid da silva carvalho | ingridSCarvalho |
 | <img src="./assets/participantes/maia.jpg" width="100" style="border-radius: 70%"/>  |Mateus Cunha Maia | mateusmaiamaia  |
 | <img src="./assets/participantes/monteiro.jpg" width="100" style="border-radius: 70%"/>  |Matheus Yan Monteiro| matheusyanmonteiro |
-| <img src="./assets/participantes/rhuan.jpg" width="100" style="border-radius: 70%"/>  |Rhuan Marques  | RhuanMr  |
 
 </center>
